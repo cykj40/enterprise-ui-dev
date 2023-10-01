@@ -31,5 +31,3 @@ jobs:
         name: Install modules from npm
       - run: npm run build
         name: Build the application
-
-
